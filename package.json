@@ -1,6 +1,6 @@
 {
-  "name": "quiz",
-  "version": "1.0.0",
+  "name": "10_typescript_quiz",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "type": "module",
